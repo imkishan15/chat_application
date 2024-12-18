@@ -1,0 +1,29 @@
+.chatbg{
+    background: linear-gradient(rgb(0, 76, 255),rgb(3, 34, 137),rgb(12, 2, 80));
+    height: 100vh;
+    padding-top: 0.5em;
+}
+.upper{
+    display: flex;
+    border-radius: 1em;
+    width: 99vw;
+    margin: auto;
+}
+.chatbody{
+    padding-top: 0.5em;
+    height: 88vh;
+    margin: auto;
+    width: 99vw;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.mychat{
+    border-radius: 1em;
+    width: 95%;
+}
+.chatbox{
+background: #7783ca;
+border-radius: 1em;
+}
+
+  

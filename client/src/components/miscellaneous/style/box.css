@@ -1,0 +1,8 @@
+.boxp{
+    display: grid;
+    grid-template-columns: 4fr 8fr 0.2fr 1fr;
+}
+.rights{
+    padding-top: 15%;
+}
+
